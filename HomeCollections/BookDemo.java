@@ -20,7 +20,7 @@ public class BookDemo {
         books.add(b2);
         books.add(b3);
         books.add(b4);
-        books.remove(0);
+        books.remove(1);
 
         for (Book book : books) {
             System.out.println(book);
